@@ -2,6 +2,8 @@
 ### helper_functions
 Assorted mfiles that are helpful to have in ~/Documents/MATLAB. Mostly support for various plotting and figure manipulation tasks.
 
+
+### License info
 These are mostly codes gathered from the fileexchange. Find below the licenses:
 
 1. Andriy Nych's [AdvancedColormap](./licenses/AdvancedColormapLicense.txt)
@@ -19,8 +21,10 @@ These are mostly codes gathered from the fileexchange. Find below the licenses:
 
    > Shimazaki H and Shinomoto S. 2007: "A method for selecting the bin size of a time histogram" Neural Computation 19(6), 1503-1527, doi: 10.1162/neco.2007.19.6.1503
 
+#### Other functions not listed above:
+Includes: ccc, fig, fcontourf, vid2images
 
-Other are own work under the MIT License:
+Own work under the MIT License:
 > MIT License
 > 
 > Copyright (c) 2020 Alexander K Landauer
