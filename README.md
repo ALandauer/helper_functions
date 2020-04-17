@@ -16,6 +16,7 @@ These are mostly codes gathered from the fileexchange. Find below the licenses:
 5. Christopher W. MacMinn's fig2frame is under MIT, included in .m file
 6. Mohak Patel's [imagesc3D](./licenses/imagesc3DLicense.txt) (own work too, under MIT, based heavily on imshow3D, see [repo](https://github.com/mohakpatel/imagesc3D))
 7. Maysam Shahedi's [imshow3D](./licenses/imshow3DLicense.txt)
+7. John Iversen's [freezeColors](./licenses/freezeColorsLicense.txt)
 8. Rob Campbell's [shadedErrorBar](./licenses/shadedErrorBarLicense.txt) (see the [repo](https://github.com/raacampbell/shadedErrorBar))
 9. Hideaki Shimazaki's [sshist](./licenses/sshistLicense.txt). See also their [website](http://2000.jukuin.keio.ac.jp/shimazaki/res/histogram.html). Cite as: 
 
